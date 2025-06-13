@@ -15,6 +15,7 @@ I'm Derek Doelling, a student at Brigham Young Unvesity-Idaho majoring in data s
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
 
 ## Blog Posts
+[Blog 1](https://github.com/DerekDoelling/edgervsdeseq2/blob/main/README.md)
 
 <!--
 **DerekDoelling/DerekDoelling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
