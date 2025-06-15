@@ -15,7 +15,7 @@ I'm Derek Doelling, a student at Brigham Young Unvesity-Idaho majoring in data s
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
 
 ## Blog Posts
-[Blog 1](https://github.com/DerekDoelling/edgervsdeseq2/blob/main/README.md)
+[Blog 1](https://github.com/DerekDoelling/edgervsdeseq2/blob/main/README.md), 
 [Blog 2](https://github.com/DerekDoelling/biomart/blob/main/README.md)
 
 <!--
