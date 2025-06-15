@@ -16,6 +16,7 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 ## Blog Posts
 [Blog 1](https://github.com/DerekDoelling/edgervsdeseq2/blob/main/README.md)
+[Blog 2](https://github.com/DerekDoelling/biomart/blob/main/README.md)
 
 <!--
 **DerekDoelling/DerekDoelling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
